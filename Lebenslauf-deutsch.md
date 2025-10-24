@@ -10,7 +10,7 @@ Ich bin Orcun Tekin, Student der Softwareentwicklung (B.Sc.) mit starkem Interes
 
 Werkstudent Infrastruktur – Tele Columbus (PYUR) 
 
-Mai 2022 – Mai 2025 
+Mai 2024 – Mai 2025 
 
     Pflege und Dokumentation von Masterlisten 
 
