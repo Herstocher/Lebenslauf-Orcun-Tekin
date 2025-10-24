@@ -2,13 +2,7 @@
 👋 Willkommen auf meinem GitHub-Profil
 🧑‍💻 Über mich
 Ich bin Orcun Tekin, Student der Softwareentwicklung (B.Sc.) mit starkem Interesse an IT-Systemen, Datenmanagement sowie Web- und App-Programmierung.
-📍 Erding, Deutschland
 📧 tekorcun@gmail.com
-
-
-📄 Lebenslauf
-Hier kannst du meinen vollständigen Lebenslauf als PDF ansehen:
-👉 
 
 
 💼 Berufserfahrung
